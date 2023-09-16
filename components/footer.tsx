@@ -62,9 +62,9 @@ const Footer = () => {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="italic underline"
-                href="https://github.com/OgaDavid"
+                href="https://github.com/lanle05"
               >
-                OgaDavid
+                Omobolanle O. Shaibu
               </Link>{" "}
             </p>
           </div>
